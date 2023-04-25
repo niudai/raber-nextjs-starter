@@ -4,7 +4,8 @@ import { initializeApp } from '@raber/react';
 import '@raber/react/src/index.css';
 
 initializeApp({
-  publicKey: 'ZXrA6EruQkdOmZXryEymXDihtSR2'
+  // remember to replace this with your own public key, otherwise you won't be able to edit your pages
+  publicKey: process.env.NEXT_PUBLIC_RABER_PUB_KEY || 'ZXrA6EruQkdOmZXryEymXDihtSR2'
 })
 
 export default function App({ Component, pageProps }: AppProps) {
