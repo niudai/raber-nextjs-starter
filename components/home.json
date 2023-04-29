@@ -1,24 +1,24 @@
 {
-    "id": "2c4cfb63-cc80-4173-948b-124ea07f10ac",
+    "id": "60eadf5d-68f4-469c-b015-9b0658e4704f",
     "component": "",
     "slots": {
         "children": {
-            "id": "5d384b49-d2f4-4be1-aa14-93a25ccec8ef",
+            "id": "eb32c9df-9d0c-4e7f-b9ea-79440394e628",
             "blocks": [{
-                "id": "36f1ab3d-88b7-434d-b2b3-40d5d25ac359",
+                "id": "2fab3248-74a6-480c-a9b7-200e6ee5bf87",
                 "component": "DocsNavBar",
                 "slots": {},
                 "children": {
                     "nav": {
-                        "id": "134cdaa0-9823-429d-8cb2-3297794a110d",
+                        "id": "d75cab58-34a7-49fc-b26a-e7cd58d53d70",
                         "slots": {},
                         "children": {
                             "navItem": {
-                                "id": "075cdfbb-3996-46fc-8cbc-f457bf950947",
+                                "id": "2dcf66f2-7016-4e20-b0ff-da4062980b05",
                                 "slots": {},
                                 "children": {
                                     "navItemName": {
-                                        "id": "43cf6c22-3851-464c-bc97-7be2914c19e8",
+                                        "id": "bb758939-e899-4b30-947e-be14cc281962",
                                         "slots": {},
                                         "children": {},
                                         "props": {},
@@ -54,7 +54,7 @@
                 },
                 "extra": {}
             }, {
-                "id": "1fea3133-d1ba-43af-bbb9-cb010a6e8ffc",
+                "id": "1c083c53-628b-4aaf-acd6-ddf9783ab296",
                 "component": "Text",
                 "slots": {},
                 "children": {},
@@ -76,37 +76,35 @@
                     }
                 }
             }, {
-                "id": "8b2890fd-4df9-41e2-984e-fa361e604256",
+                "id": "798bae1e-5367-45c0-b11b-8e3f086dc0c5",
                 "component": "Image",
                 "slots": {},
                 "children": {},
                 "props": {
-                    "src": "https://firebasestorage.googleapis.com/v0/b/react-builder-c9ea4.appspot.com/o/assets%2FZXrA6EruQkdOmZXryEymXDihtSR2%2F5ba91826aba04b0ae2267a536d6d5655515cd7e99ba85fb3708f35aaea369b94_1600x1600.webp?alt=media"
+                    "src": "https://firebasestorage.googleapis.com/v0/b/react-builder-c9ea4.appspot.com/o/assets%2FJtQuYE0FSAOEUUOENIEe21r14Cr1%2F09d2ad4d95e0c7f34ef50283c9155cd953dd46ade430da8e19fe6eb3bbcfb43d_1600x1600.webp?alt=media"
                 },
-                "styles": {
-                    "marginBottom": 38
-                },
+                "styles": {},
                 "extra": {}
             }, {
-                "id": "d75c316f-4780-4319-9b7a-5b5c1bfa117b",
+                "id": "779cd928-de6d-4c1e-9887-80e35f7754a7",
                 "component": "Box",
                 "slots": {
                     "children1": {
-                        "id": "2643e605-0d93-4c10-bb53-4de6725ecdc6",
+                        "id": "cc27e0f6-370e-4b19-a566-22b67ba14174",
                         "blocks": [{
-                            "id": "73fa7213-2d7d-4cbc-8a78-12087c1dbf78",
+                            "id": "ca401cf1-dcf0-41a4-bb75-16ff6221bd04",
                             "component": "Box",
                             "slots": {
                                 "children1": {
-                                    "id": "c69f09d8-4aea-4292-b956-e9e7cf97c5f2",
+                                    "id": "c318afe5-43a1-4931-819f-980eb599b81e",
                                     "blocks": [{
-                                        "id": "15174d1b-77cd-4bac-b9f8-3c538c8cd2e2",
+                                        "id": "e49ad516-08ca-46a3-a6ed-ddafd8744255",
                                         "component": "Link",
                                         "slots": {
                                             "children": {
-                                                "id": "65ebd858-c7c1-437d-a4e9-b3af55550769",
+                                                "id": "ceb808ae-411b-44c3-a56b-1e00c689d5a8",
                                                 "blocks": [{
-                                                    "id": "07a7cd53-c8a0-4d4e-82a9-48e3881ab3cc",
+                                                    "id": "0edbe26b-212c-4b8a-90b2-e968b1902af2",
                                                     "component": "Text",
                                                     "slots": {},
                                                     "children": {},
@@ -125,7 +123,7 @@
                                                         }
                                                     }
                                                 }, {
-                                                    "id": "ea0d87d8-2995-4b3b-9a08-67e42410f3ab",
+                                                    "id": "6c569ee6-7472-4037-8a63-5a81c27f36be",
                                                     "component": "Text",
                                                     "slots": {},
                                                     "children": {},
@@ -193,19 +191,19 @@
                             },
                             "extra": {}
                         }, {
-                            "id": "802fdc8b-bd54-4d8d-a98c-dbae4db8a8cf",
+                            "id": "95e0dee4-d04f-4225-93c8-0bdf17683a41",
                             "component": "Box",
                             "slots": {
                                 "children1": {
-                                    "id": "cd5f58d7-aa90-4a97-8ec1-7c03ff0dcbf7",
+                                    "id": "19c3e16c-fed2-4975-836c-311b094197df",
                                     "blocks": [{
-                                        "id": "b76eb7fd-7655-4eeb-822b-3155a9d50a84",
+                                        "id": "ef17068b-82ce-4094-a3e8-56f44a85f3d7",
                                         "component": "Link",
                                         "slots": {
                                             "children": {
-                                                "id": "c05717ca-62a5-496e-959c-0f91175607dc",
+                                                "id": "b637ff0e-1a56-43e4-934b-42098cd87392",
                                                 "blocks": [{
-                                                    "id": "efb09855-a301-462b-9408-5cc463592f32",
+                                                    "id": "81051366-713a-417a-877c-3eeeaebe272a",
                                                     "component": "Text",
                                                     "slots": {},
                                                     "children": {},
@@ -224,7 +222,7 @@
                                                         }
                                                     }
                                                 }, {
-                                                    "id": "2d1a723b-f776-453f-b1bb-fdb117ac4206",
+                                                    "id": "4ec8b20f-e684-429e-af70-f8414a2161f5",
                                                     "component": "Text",
                                                     "slots": {},
                                                     "children": {},
